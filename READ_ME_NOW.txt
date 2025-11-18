@@ -1,1 +1,0 @@
-Your files are encrypted! (fake training note)
