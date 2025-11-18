@@ -1,5 +1,5 @@
 # 🔍 Forensics IOC Toolkit (PowerShell DFIR Suite)
-A safe, read-only digital forensics toolkit built using PowerShell.  
+A safe, -only digital forensics toolkit built using PowerShell.  
 Designed for learning, triage practice, and cybersecurity mini-projects.
 
 This toolkit performs **IOC-based scanning on Disk + Memory**, generates **HTML/CSV/JSON reports**, and works fully offline.  
@@ -71,7 +71,7 @@ It simply detects, analyzes, and reports suspicious activity.
 ```
 ForensicsIOC_Toolkit_Full.ps1      # Main toolkit (scanners + report generator)
 ioc_list.txt                       # IOC database (editable)
-README_ForensicsIOC_Toolkit_Full   # Local help file
+ME_ForensicsIOC_Toolkit_Full       # Local help file
 fake_malware_pack/                 # Optional training files
 ```
 
@@ -208,7 +208,7 @@ This toolkit is:
 
 - **Safe**
 - **Offline**
-- **Read-only**
+- **-only**
 - **Does not modify or delete files**
 - **Does not contain malware**
 
