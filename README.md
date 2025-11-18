@@ -7,7 +7,7 @@ No malware included — only safe fake training samples.
 
 ---
 
-# 🧠 What Are IOCs? (Simple Explanation)
+# 🧠 What Are IOCs? 
 
 **IOC = Indicator of Compromise.**  
 These are *clues* that a system may be infected or tampered with.
@@ -188,17 +188,6 @@ memory_ioc_hits.html
 
 ---
 
-## 📸 Screenshot Examples (Placeholders)
-
-You can add your own screenshots here.
-
-```
-
-```
-<img width="1152" height="686" alt="image" src="https://github.com/user-attachments/assets/b3c72bff-97d2-4159-92f9-92f0aa72be6f" />
-
----
-
 ## 🧩 Fake Malware Training Pack (Optional)
 
 A downloadable pack of harmless “fake malware” files:
@@ -238,12 +227,6 @@ All training samples are **empty or text-only placeholders**.
 
 ---
 
-## 📝 License
-
-MIT License  
-Use freely for education, research, and demonstrations.
-
----
 
 ## ❤️ Author
 
