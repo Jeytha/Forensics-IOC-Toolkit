@@ -1,0 +1,30 @@
+# ioc_list.txt - IOC database for your toolkit
+# Lines starting with # are comments and will be ignored.
+# You can put:
+#   - Filenames (example: ransom.exe)
+#   - Full paths (example: C:\Users\Public\Downloads\backdoor.ps1)
+#   - SHA256 hashes
+#   - DLL / module names
+
+# Example filenames
+ransom.exe
+svch0st.exe
+
+# Example full path
+C:\Users\Public\Downloads\backdoor.ps1
+
+# Example SHA256 hash (fake sample)
+d2b02f0f6cb9b2e07b3bb7da293c28f0af901e2ccd1ba94f10f3c6d0ac555831
+
+# Example DLL
+evilshim.dll
+ransomware_loader.exe
+keylogger_fake.exe
+trojan_dropper.exe
+invoke-mimikatz.ps1
+reverse_shell.ps1
+agentloader.js
+silent.vbs
+evilshim.dll
+persistence_payload.dll
+READ_ME_NOW.txt
